@@ -111,3 +111,10 @@ footer {
     align-items: center;
   }
 }
+.signature {
+  margin-top: 6px;
+  font-size: 0.85rem;
+  color: #38bdf8;
+  letter-spacing: 1px;
+  font-style: italic;
+}
